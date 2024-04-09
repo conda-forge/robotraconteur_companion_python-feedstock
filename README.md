@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@johnwason](https://github.com/johnwason/)
+* [@traversaro](https://github.com/traversaro/)
 
